@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/calc-react/static/css/main.62ae2964.css",
+    "main.js": "/calc-react/static/js/main.8d8ef987.js",
+    "static/media/—Pngtree—mathematics education calculator ruler hand_1178879.jpg": "/calc-react/static/media/—Pngtree—mathematics education calculator ruler hand_1178879.cd0891d0939b5a20e6f6.jpg",
+    "index.html": "/calc-react/index.html",
+    "main.62ae2964.css.map": "/calc-react/static/css/main.62ae2964.css.map",
+    "main.8d8ef987.js.map": "/calc-react/static/js/main.8d8ef987.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62ae2964.css",
+    "static/js/main.8d8ef987.js"
+  ]
+}
